@@ -101,3 +101,4 @@ fig.update_traces(
 )
 
 fig.show()
+fig.write_html("pilotos_f1_interactivo.html")
