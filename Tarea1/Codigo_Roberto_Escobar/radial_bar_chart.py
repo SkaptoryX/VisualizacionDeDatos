@@ -5,7 +5,7 @@ from matplotlib.patches import Patch
 import matplotlib.cm as cm
 
 # Leer los datos
-df = pd.read_csv('data.csv')
+df = pd.read_csv('LeMansRaces.csv')
 
 # Configurar el diseño de la figura con dos subgráficos
 fig = plt.figure(figsize=(20, 10))

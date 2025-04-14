@@ -4,7 +4,7 @@ import numpy as np
 from scipy import stats
 
 # Cargar el archivo CSV
-df = pd.read_csv('data.csv')
+df = pd.read_csv('LeMansRaces.csv')
 
 # Limpiar el DataFrame: quitar filas sin vueltas o año
 df_clean = df.dropna(subset=['Laps', 'Year', 'Drivers'])
