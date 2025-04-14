@@ -1,0 +1,228 @@
+Year,Drivers,Class,Team,Car,Tyre,Laps,Km,Mi,Series,Driver_nationality,Team_nationality,Average_speed_kmh,Average_speed_mph,Average_lap_time
+1923,André Lagache,3.0,Chenard & Walcker SA,Chenard-Walcker Type U3 15CV Sport,Michelin,128.0,2209.536,1372.942,No series,FRA,FRA,92.06,57.21,11.25
+1923,René Léonard,3.0,Chenard & Walcker SA,Chenard-Walcker Type U3 15CV Sport,Michelin,128.0,2209.536,1372.942,No series,FRA,FRA,92.06,57.21,11.25
+1924,Frank Clement,3.0,Duff & Aldington,Bentley 3 Litre Sport,Rapson,120.0,2077.34,1290.8,No series,GBR,GBR,86.56,53.78,12.0
+1924,John Duff,3.0,Duff & Aldington,Bentley 3 Litre Sport,Rapson,120.0,2077.34,1290.8,No series,CAN,GBR,86.56,53.78,12.0
+1925,Gérard de Courcelles,5.0,Société Lorraine De Dietrich et Cie,Lorraine-Dietrich B3-6 Sport,Englebert,129.0,2233.982,1388.132,No series,FRA,FRA,93.08,57.84,11.16
+1925,André Rossignol,5.0,Société Lorraine De Dietrich et Cie,Lorraine-Dietrich B3-6 Sport,Englebert,129.0,2233.982,1388.132,No series,FRA,FRA,93.08,57.84,11.16
+1926,Robert Bloch,5.0,Société Lorraine De Dietrich et Cie,Lorraine-Dietrich B3-6 Le Mans,Dunlop,148.0,2552.414,1585.997,No series,FRA,FRA,106.35,66.08,9.73
+1926,André Rossignol,5.0,Société Lorraine De Dietrich et Cie,Lorraine-Dietrich B3-6 Le Mans,Dunlop,148.0,2552.414,1585.997,No series,FRA,FRA,106.35,66.08,9.73
+1927,Dudley Benjafield,3.0,Bentley Motors Limited,Bentley 3 Litre Speed,Dunlop,137.0,2369.807,1472.53,No series,GBR,GBR,98.74,61.36,10.51
+1927,Sammy Davis,3.0,Bentley Motors Limited,Bentley 3 Litre Speed,Dunlop,137.0,2369.807,1472.53,No series,GBR,GBR,98.74,61.36,10.51
+1928,Woolf Barnato,5.0,Bentley Motors Limited,Bentley 4½ Litre,Dunlop,155.0,2669.272,1658.609,No series,GBR,GBR,111.22,69.11,9.29
+1928,Bernard Rubin,5.0,Bentley Motors Limited,Bentley 4½ Litre,Dunlop,155.0,2669.272,1658.609,No series,AUS,GBR,111.22,69.11,9.29
+1929,Woolf Barnato,8.0,Bentley Motors Limited,Bentley Speed Six,Dunlop,174.0,2843.83,1767.07,No series,GBR,GBR,118.49,73.63,8.28
+1929,Henry Birkin,8.0,Bentley Motors Limited,Bentley Speed Six,Dunlop,174.0,2843.83,1767.07,No series,GBR,GBR,118.49,73.63,8.28
+1930,Woolf Barnato,>3.0,Bentley Motors Limited,Bentley Speed Six,Dunlop,179.0,2930.663,1821.03,No series,GBR,GBR,122.11,75.88,8.04
+1930,Glen Kidston,>3.0,Bentley Motors Limited,Bentley Speed Six,Dunlop,179.0,2930.663,1821.03,No series,GBR,GBR,122.11,75.88,8.04
+1931,Henry Birkin,3.0,Earl Howe,Alfa Romeo 8C-2300 LM,Dunlop,184.0,3017.654,1875.083,No series,GBR,GBR,125.74,78.13,7.83
+1931,Earl Howe,3.0,Earl Howe,Alfa Romeo 8C-2300 LM,Dunlop,184.0,3017.654,1875.083,No series,GBR,GBR,125.74,78.13,7.83
+1932,Luigi Chinetti,5.0,Raymond Sommer,Alfa Romeo 8C-2300 LM,Englebert,218.0,2954.038,1835.554,No series,ITA,FRA,123.08,76.48,6.61
+1932,Raymond Sommer,5.0,Raymond Sommer,Alfa Romeo 8C-2300 LM,Englebert,218.0,2954.038,1835.554,No series,FRA,FRA,123.08,76.48,6.61
+1933,Tazio Nuvolari,5.0,Raymond Sommer,Alfa Romeo 8C-2300 MM,Pirelli,233.0,3144.038,1953.615,No series,ITA,FRA,131.0,81.4,6.18
+1933,Raymond Sommer,5.0,Raymond Sommer,Alfa Romeo 8C-2300 MM,Pirelli,233.0,3144.038,1953.615,No series,FRA,FRA,131.0,81.4,6.18
+1934,Luigi Chinetti,3.0,Luigi Chinetti/Philippe Étancelin,Alfa Romeo 8C 2300,Englebert,213.0,2886.938,1793.86,No series,ITA,ITA,120.29,74.74,6.76
+1934,Philippe Étancelin,3.0,Luigi Chinetti/Philippe Étancelin,Alfa Romeo 8C 2300,Englebert,213.0,2886.938,1793.86,No series,FRA,ITA,120.29,74.74,6.76
+1935,Luis Fontés,5.0,Fox & Nichol,Lagonda M45R Rapide,Dunlop,222.0,3006.797,1868.337,No series,GBR,GBR,125.28,77.85,6.49
+1935,Johnny Hindmarsh,5.0,Fox & Nichol,Lagonda M45R Rapide,Dunlop,222.0,3006.797,1868.337,No series,GBR,GBR,125.28,77.85,6.49
+1937,Robert Benoist,5.0,Roger Labric,Bugatti Type 57G Tank,Dunlop,244.0,3287.938,2043.03,No series,FRA,FRA,137.0,85.13,5.9
+1937,Jean-Pierre Wimille,5.0,Roger Labric,Bugatti Type 57G Tank,Dunlop,244.0,3287.938,2043.03,No series,FRA,FRA,137.0,85.13,5.9
+1938,Eugène Chaboud,5.0,Eugène Chaboud et Jean Trémoulet,Delahaye 135CS,Dunlop,235.0,3180.94,1976.54,No series,FRA,FRA,132.54,82.36,6.13
+1938,Jean Trémoulet,5.0,Eugène Chaboud et Jean Trémoulet,Delahaye 135CS,Dunlop,235.0,3180.94,1976.54,No series,FRA,FRA,132.54,82.36,6.13
+1939,Pierre Veyron,8.0,Jean-Pierre Wimille,Bugatti Type 57S Tank,Dunlop,248.0,3354.76,2084.55,No series,FRA,FRA,139.78,86.86,5.81
+1939,Jean-Pierre Wimille,8.0,Jean-Pierre Wimille,Bugatti Type 57S Tank,Dunlop,248.0,3354.76,2084.55,No series,FRA,FRA,139.78,86.86,5.81
+1949,Luigi Chinetti,S 2.0,Lord Selsdon,Ferrari 166 MM,Englebert,235.0,3178.299,1974.903,No series,USA,GBR,132.43,82.29,6.13
+1949,Peter Mitchell-Thomson,S 2.0,Lord Selsdon,Ferrari 166 MM,Englebert,235.0,3178.299,1974.903,No series,GBR,GBR,132.43,82.29,6.13
+1950,Jean-Louis Rosier,S 5.0,Louis Rosier,Talbot Lago Grand Sport T26,Dunlop,256.0,3465.12,2153.13,No series,FRA,FRA,144.38,89.71,5.62
+1950,Louis Rosier,S 5.0,Louis Rosier,Talbot Lago Grand Sport T26,Dunlop,256.0,3465.12,2153.13,No series,FRA,FRA,144.38,89.71,5.62
+1951,Peter Walker,S 5.0,Peter Walker,Jaguar XK-120C,Dunlop,267.0,3611.193,2243.891,No series,GBR,GBR,150.47,93.5,5.39
+1951,Peter Whitehead,S 5.0,Peter Walker,Jaguar XK-120C,Dunlop,267.0,3611.193,2243.891,No series,GBR,GBR,150.47,93.5,5.39
+1952,Hermann Lang,S 3.0,Daimler-Benz A.G.,Mercedes-Benz 300 SL W194,Continental,277.0,3733.8,2320.076,No series,DEU,DEU,155.58,96.67,5.2
+1952,Fritz Riess,S 3.0,Daimler-Benz A.G.,Mercedes-Benz 300 SL W194,Continental,277.0,3733.8,2320.076,No series,DEU,DEU,155.58,96.67,5.2
+1953,Duncan Hamilton,S 5.0,Jaguar Cars Ltd.,Jaguar C-Type,Dunlop,304.0,4088.064,2540.205,WSC,GBR,GBR,170.34,105.84,4.74
+1953,Tony Rolt,S 5.0,Jaguar Cars Ltd.,Jaguar C-Type,Dunlop,304.0,4088.064,2540.205,WSC,GBR,GBR,170.34,105.84,4.74
+1954,José Froilán González,S 5.0,Scuderia Ferrari,Ferrari 375 Plus,Pirelli,302.0,4061.15,2523.48,WSC,ARG,ITA,169.21,105.14,4.77
+1954,Maurice Trintignant,S 5.0,Scuderia Ferrari,Ferrari 375 Plus,Pirelli,302.0,4061.15,2523.48,WSC,FRA,ITA,169.21,105.14,4.77
+1955,Ivor Bueb,S 5.0,Jaguar Cars Ltd.,Jaguar D-Type,Dunlop,307.0,4135.38,2569.61,WSC,GBR,GBR,172.31,107.07,4.69
+1955,Mike Hawthorn,S 5.0,Jaguar Cars Ltd.,Jaguar D-Type,Dunlop,307.0,4135.38,2569.61,WSC,GBR,GBR,172.31,107.07,4.69
+1956,Ron Flockhart,S 5.0,Ecurie Ecosse,Jaguar D-Type,Dunlop,300.0,4034.929,2507.189,No series,GBR,GBR,168.12,104.47,4.8
+1956,Ninian Sanderson,S 5.0,Ecurie Ecosse,Jaguar D-Type,Dunlop,300.0,4034.929,2507.189,No series,GBR,GBR,168.12,104.47,4.8
+1957,Ivor Bueb,S 5.0,Ecurie Ecosse,Jaguar D-Type,Dunlop,327.0,4397.108,2732.236,WSC,GBR,GBR,183.21,113.84,4.4
+1957,Ron Flockhart,S 5.0,Ecurie Ecosse,Jaguar D-Type,Dunlop,327.0,4397.108,2732.236,WSC,GBR,GBR,183.21,113.84,4.4
+1958,Olivier Gendebien,S 3.0,Scuderia Ferrari,Ferrari 250 TR58,Englebert,305.0,4101.926,2548.819,WSC,BEL,ITA,170.91,106.2,4.72
+1958,Phil Hill,S 3.0,Scuderia Ferrari,Ferrari 250 TR58,Englebert,305.0,4101.926,2548.819,WSC,USA,ITA,170.91,106.2,4.72
+1959,Roy Salvadori,S 3.0,David Brown Racing Dept.,Aston Martin DBR1/300,A,323.0,4347.9,2701.7,WSC,GBR,GBR,181.16,112.57,4.46
+1959,Carroll Shelby,S 3.0,David Brown Racing Dept.,Aston Martin DBR1/300,A,323.0,4347.9,2701.7,WSC,USA,GBR,181.16,112.57,4.46
+1960,Paul Frère,S 3.0,Scuderia Ferrari,Ferrari 250 TR59/60,Dunlop,314.0,4217.527,2620.65,WSC,BEL,ITA,175.73,109.19,4.59
+1960,Olivier Gendebien,S 3.0,Scuderia Ferrari,Ferrari 250 TR59/60,Dunlop,314.0,4217.527,2620.65,G,BEL,ITA,175.73,109.19,4.59
+1961,Olivier Gendebien,S 3.0,Scuderia Ferrari,Ferrari 250 TRI/61,Dunlop,333.0,4476.58,2781.62,WSC,BEL,ITA,186.52,115.9,4.32
+1961,Phil Hill,S 3.0,Scuderia Ferrari,Ferrari 250 TRI/61,Dunlop,333.0,4476.58,2781.62,G,USA,ITA,186.52,115.9,4.32
+1962,Olivier Gendebien,E +3.0,Scuderia Ferrari,Ferrari 330 TRI/LM Spyder,Dunlop,331.0,4451.255,2765.882,WSC,BEL,ITA,185.47,115.25,4.35
+1962,Phil Hill,E +3.0,Scuderia Ferrari,Ferrari 330 TRI/LM Spyder,Dunlop,331.0,4451.255,2765.882,CMVE,USA,ITA,185.47,115.25,4.35
+1963,Lorenzo Bandini,P Group 3 (racing),SpA Ferrari SEFAC,Ferrari 250 P,Dunlop,339.0,4561.71,2834.52,WSC,ITA,ITA,190.07,118.1,4.25
+1963,Ludovico Scarfiotti,P Group 3 (racing),SpA Ferrari SEFAC,Ferrari 250 P,Dunlop,339.0,4561.71,2834.52,CMVE,ITA,ITA,190.07,118.1,4.25
+1964,Jean Guichet,P Group 3 (racing),SpA Ferrari SEFAC,Ferrari 275 P,Dunlop,349.0,4695.31,2917.53,WSC,FRA,ITA,195.64,121.56,4.13
+1964,Nino Vaccarella,P Group 3 (racing),SpA Ferrari SEFAC,Ferrari 275 P,Dunlop,349.0,4695.31,2917.53,CMVE,ITA,ITA,195.64,121.56,4.13
+1965,Masten Gregory,P Group 3 (racing),North American Racing Team,Ferrari 250 LM,Goodyear,348.0,4677.11,2906.22,WSC,USA,USA,194.88,121.09,4.14
+1965,Ed Hugus,P Group 3 (racing),North American Racing Team,Ferrari 250 LM,Goodyear,348.0,4677.11,2906.22,WSC,USA,USA,194.88,121.09,4.14
+1965,Jochen Rindt,P Group 3 (racing),North American Racing Team,Ferrari 250 LM,Goodyear,348.0,4677.11,2906.22,CMVE,AUT,USA,194.88,121.09,4.14
+1966,Chris Amon,P Group 4 (racing),Shelby-American Inc.,Ford GT40 Mk. II,Goodyear,360.0,4843.09,3009.36,WSC,NZL,USA,201.8,125.39,4.0
+1966,Bruce McLaren,P Group 4 (racing),Shelby-American Inc.,Ford GT40 Mk. II,Goodyear,360.0,4843.09,3009.36,CMVE,NZL,USA,201.8,125.39,4.0
+1967,A. J. Foyt,P Group 4 (racing),Shelby-American Inc.,Ford GT40 Mk. IV,Goodyear,388.0,5232.9,3251.6,WSC,USA,USA,218.04,135.48,3.71
+1967,Dan Gurney,P Group 4 (racing),Shelby-American Inc.,Ford GT40 Mk. IV,Goodyear,388.0,5232.9,3251.6,CMVE,USA,USA,218.04,135.48,3.71
+1968,Lucien Bianchi,S Group 5 (racing),J. W. Automotive Engineering,Ford GT40 Mk. I,Firestone,331.0,4452.88,2766.89,ICM,BEL,GBR,185.54,115.29,4.35
+1968,Pedro Rodríguez,S Group 5 (racing),J. W. Automotive Engineering,Ford GT40 Mk. I,Firestone,331.0,4452.88,2766.89,CMVE,MEX,GBR,185.54,115.29,4.35
+1969,Jacky Ickx,S Group 5 (racing),J. W. Automotive Engineering,Ford GT40 Mk. I,Firestone,372.0,4998.0,3106.0,ICM,BEL,GBR,208.25,129.42,3.87
+1969,Jackie Oliver,S Group 5 (racing),J. W. Automotive Engineering,Ford GT40 Mk. I,Firestone,372.0,4998.0,3106.0,CMVE,GBR,GBR,208.25,129.42,3.87
+1969,Jackie Oliver,S Group 5 (racing),J. W. Automotive Engineering,Ford GT40 Mk. I,Firestone,372.0,4998.0,3106.0,CFC,GBR,GBR,208.25,129.42,3.87
+1970,Richard Attwood,S Group 5 (racing),Porsche KG Salzburg,Porsche 917KH Coupé,Goodyear,343.0,4607.81,2863.16,ICM,GBR,AUT,191.99,119.3,4.2
+1970,Hans Herrmann,S Group 5 (racing),Porsche KG Salzburg,Porsche 917KH Coupé,Goodyear,343.0,4607.81,2863.16,CMVE,DEU,AUT,191.99,119.3,4.2
+1971,Helmut Marko,S Group 5 (racing),Martini Racing Team,Porsche 917KH Coupé,Firestone,397.0,5335.313,3315.21,ICM,AUT,DEU,222.3,138.13,3.63
+1971,Gijs van Lennep,S Group 5 (racing),Martini Racing Team,Porsche 917KH Coupé,Firestone,397.0,5335.313,3315.21,CMVE,NED,DEU,222.3,138.13,3.63
+1972,Graham Hill,S Group 5 (racing),Equipe Matra-Simca Shell,Matra-Simca MS670,Goodyear,344.0,4691.343,2915.065,WCM,GBR,FRA,195.47,121.46,4.19
+1972,Henri Pescarolo,S Group 5 (racing),Equipe Matra-Simca Shell,Matra-Simca MS670,Goodyear,344.0,4691.343,2915.065,CMVE,FRA,FRA,195.47,121.46,4.19
+1973,Gérard Larrousse,S Group 5 (racing),Equipe Matra-Simca Shell,Matra-Simca MS670B,Goodyear,355.0,4853.945,3016.102,WCM,FRA,FRA,202.25,125.67,4.06
+1973,Henri Pescarolo,S Group 5 (racing),Equipe Matra-Simca Shell,Matra-Simca MS670B,Goodyear,355.0,4853.945,3016.102,CMVE,FRA,FRA,202.25,125.67,4.06
+1973,Henri Pescarolo,S Group 5 (racing),Equipe Matra-Simca Shell,Matra-Simca MS670B,Goodyear,355.0,4853.945,3016.102,SSG,FRA,FRA,202.25,125.67,4.06
+1974,Gérard Larrousse,S Group 5 (racing),Equipe Gitanes,Matra-Simca MS670C,Goodyear,338.0,4606.571,2862.391,WCM,FRA,FRA,191.94,119.27,4.26
+1974,Henri Pescarolo,S Group 5 (racing),Equipe Gitanes,Matra-Simca MS670C,Goodyear,338.0,4606.571,2862.391,CMVE,FRA,FRA,191.94,119.27,4.26
+1975,Derek Bell,S Group 5 (racing),Gulf Research Racing Co.,Mirage GR8-Ford Cosworth,Goodyear,336.0,4595.577,2855.559,No series,GBR,GBR,191.48,118.98,4.29
+1975,Jacky Ickx,S Group 5 (racing),Gulf Research Racing Co.,Mirage GR8-Ford Cosworth,Goodyear,336.0,4595.577,2855.559,No series,BEL,GBR,191.48,118.98,4.29
+1976,Jacky Ickx,Gp.6 Group 6 (racing),Martini Racing Porsche System,Porsche 936/76 Spyder,Goodyear,349.0,4769.923,2963.893,No series,BEL,DEU,198.75,123.5,4.13
+1976,Gijs van Lennep,Gp.6 Group 6 (racing),Martini Racing Porsche System,Porsche 936/76 Spyder,Goodyear,349.0,4769.923,2963.893,No series,NED,DEU,198.75,123.5,4.13
+1977,Jürgen Barth,Gp.6 Group 6 (racing),Martini Racing Porsche System,Porsche 936/77 Spyder,Dunlop,342.0,4671.63,2902.82,No series,DEU,DEU,194.65,120.95,4.21
+1977,Hurley Haywood,Gp.6 Group 6 (racing),Martini Racing Porsche System,Porsche 936/77 Spyder,Dunlop,342.0,4671.63,2902.82,No series,USA,DEU,194.65,120.95,4.21
+1977,Jacky Ickx,Gp.6 Group 6 (racing),Martini Racing Porsche System,Porsche 936/77 Spyder,Dunlop,342.0,4671.63,2902.82,No series,BEL,DEU,194.65,120.95,4.21
+1978,Jean-Pierre Jaussaud,Gp.6 Group 6 (racing),Alpine Renault,Renault Alpine A442B,Michelin,369.0,5044.53,3134.53,WCED,FRA,FRA,210.19,130.61,3.9
+1978,Didier Pironi,Gp.6 Group 6 (racing),Alpine Renault,Renault Alpine A442B,Michelin,369.0,5044.53,3134.53,WCED,FRA,FRA,210.19,130.61,3.9
+1979,Klaus Ludwig,Gp.5 Group 5 (racing),Porsche Kremer Racing,Porsche 935 K3,Dunlop,307.0,4173.93,2593.56,WCED,DEU,DEU,173.91,108.06,4.69
+1979,Bill Whittington,Gp.5 Group 5 (racing),Porsche Kremer Racing,Porsche 935 K3,Dunlop,307.0,4173.93,2593.56,WCED,USA,DEU,173.91,108.06,4.69
+1979,Don Whittington,Gp.5 Group 5 (racing),Porsche Kremer Racing,Porsche 935 K3,Dunlop,307.0,4173.93,2593.56,WCED,USA,DEU,173.91,108.06,4.69
+1980,Jean-Pierre Jaussaud,S Group 6 (racing),Jean Rondeau,Rondeau M379B-Ford,Goodyear,338.0,4608.02,2863.29,WCM,FRA,FRA,192.0,119.3,4.26
+1980,Jean Rondeau,S Group 6 (racing),Jean Rondeau,Rondeau M379B-Ford,Goodyear,338.0,4608.02,2863.29,WCED,FRA,FRA,192.0,119.3,4.26
+1981,Derek Bell,S Group 6 (racing),Porsche System,Porsche 936/81,Dunlop,354.0,4825.348,2998.332,WEC,GBR,DEU,201.06,124.93,4.07
+1981,Jacky Ickx,S Group 6 (racing),Porsche System,Porsche 936/81,Dunlop,354.0,4825.348,2998.332,WEC,BEL,DEU,201.06,124.93,4.07
+1982,Derek Bell,Group C,Rothmans Porsche System,Porsche 956,Dunlop,359.0,4899.086,3044.151,WEC,GBR,DEU,204.13,126.84,4.01
+1982,Jacky Ickx,Group C,Rothmans Porsche System,Porsche 956,Dunlop,359.0,4899.086,3044.151,WEC,BEL,DEU,204.13,126.84,4.01
+1983,Hurley Haywood,Group C,Rothmans Porsche,Porsche 956,Dunlop,371.0,5047.934,3136.641,EEC,USA,DEU,210.33,130.69,3.88
+1983,Al Holbert,Group C,Rothmans Porsche,Porsche 956,Dunlop,371.0,5047.934,3136.641,EEC,USA,DEU,210.33,130.69,3.88
+1983,Vern Schuppan,Group C,Rothmans Porsche,Porsche 956,Dunlop,371.0,5047.934,3136.641,WEC,AUS,DEU,210.33,130.69,3.88
+1984,Klaus Ludwig,Group C,Joest Racing,Porsche 956B,Dunlop,360.0,4900.276,3044.89,WEC,DEU,DEU,204.18,126.87,4.0
+1984,Henri Pescarolo,Group C,Joest Racing,Porsche 956B,Dunlop,360.0,4900.276,3044.89,WEC,FRA,DEU,204.18,126.87,4.0
+1985,Paolo Barilla,Group C,Joest Racing,Porsche 956B,Dunlop,374.0,5088.507,3161.852,WEC,ITA,DEU,212.02,131.74,3.85
+1985,Klaus Ludwig,Group C,Joest Racing,Porsche 956B,Dunlop,374.0,5088.507,3161.852,WEC,DEU,DEU,212.02,131.74,3.85
+1985,"""John Winter""",Group C,Joest Racing,Porsche 956B,Dunlop,374.0,5088.507,3161.852,WEC,DEU,DEU,212.02,131.74,3.85
+1986,Derek Bell,Group C,Rothmans Porsche,Porsche 962C,Dunlop,368.0,4972.731,3089.912,WSPC,GBR,DEU,207.2,128.75,3.91
+1986,Al Holbert,Group C,Rothmans Porsche,Porsche 962C,Dunlop,368.0,4972.731,3089.912,WSPC,USA,DEU,207.2,128.75,3.91
+1986,Hans-Joachim Stuck,Group C,Rothmans Porsche,Porsche 962C,Dunlop,368.0,4972.731,3089.912,WSPC,DEU,DEU,207.2,128.75,3.91
+1987,Derek Bell,Group C,Rothmans Porsche,Porsche 962C,Dunlop,355.0,4791.777,2977.472,WSPC,GBR,DEU,199.66,124.06,4.06
+1987,Al Holbert,Group C,Rothmans Porsche,Porsche 962C,Dunlop,355.0,4791.777,2977.472,WSPC,USA,DEU,199.66,124.06,4.06
+1987,Hans-Joachim Stuck,Group C,Rothmans Porsche,Porsche 962C,Dunlop,355.0,4791.777,2977.472,WSPC,DEU,DEU,199.66,124.06,4.06
+1988,Johnny Dumfries,Group C,Silk Cut Jaguar,Jaguar XJR-9LM,Dunlop,394.0,5332.97,3313.75,WSPC,GBR,GBR,222.21,138.07,3.65
+1988,Jan Lammers,Group C,Silk Cut Jaguar,Jaguar XJR-9LM,Dunlop,394.0,5332.97,3313.75,WSPC,NED,GBR,222.21,138.07,3.65
+1988,Andy Wallace,Group C,Silk Cut Jaguar,Jaguar XJR-9LM,Dunlop,394.0,5332.97,3313.75,WSPC,GBR,GBR,222.21,138.07,3.65
+1989,Stanley Dickens,Group C,Team Sauber Mercedes,Sauber C9/88-Mercedes-Benz,Michelin,389.0,5265.115,3271.591,No series,SWE,DEU,219.38,136.32,3.7
+1989,Jochen Mass,Group C,Team Sauber Mercedes,Sauber C9/88-Mercedes-Benz,Michelin,389.0,5265.115,3271.591,No series,DEU,DEU,219.38,136.32,3.7
+1989,Manuel Reuter,Group C,Team Sauber Mercedes,Sauber C9/88-Mercedes-Benz,Michelin,389.0,5265.115,3271.591,No series,DEU,DEU,219.38,136.32,3.7
+1990,Martin Brundle,Group C,Silk Cut Jaguar,Jaguar XJR-12 LM,Goodyear,359.0,4882.4,3033.78,No series,GBR,GBR,203.43,126.41,4.01
+1990,Price Cobb,Group C,Silk Cut Jaguar,Jaguar XJR-12 LM,Goodyear,359.0,4882.4,3033.78,No series,USA,GBR,203.43,126.41,4.01
+1990,John Nielsen,Group C,Silk Cut Jaguar,Jaguar XJR-12 LM,Goodyear,359.0,4882.4,3033.78,No series,DEN,GBR,203.43,126.41,4.01
+1991,Bertrand Gachot,Group C,Mazdaspeed Co. Ltd.,Mazda 787B,Dunlop,362.0,4922.81,3058.89,WSC,BEL,JPN,205.12,127.45,3.98
+1991,Johnny Herbert,Group C,Mazdaspeed Co. Ltd.,Mazda 787B,Dunlop,362.0,4922.81,3058.89,WSC,GBR,JPN,205.12,127.45,3.98
+1991,Volker Weidler,Group C,Mazdaspeed Co. Ltd.,Mazda 787B,Dunlop,362.0,4922.81,3058.89,WSC,DEU,JPN,205.12,127.45,3.98
+1992,Mark Blundell,Group C,Peugeot Talbot Sport,Peugeot 905 Evo 1 Bis,Michelin,352.0,4787.2,2974.6,WSC,GBR,FRA,199.47,123.94,4.09
+1992,Yannick Dalmas,Group C,Peugeot Talbot Sport,Peugeot 905 Evo 1 Bis,Michelin,352.0,4787.2,2974.6,WSC,FRA,FRA,199.47,123.94,4.09
+1992,Derek Warwick,Group C,Peugeot Talbot Sport,Peugeot 905 Evo 1 Bis,Michelin,352.0,4787.2,2974.6,WSC,GBR,FRA,199.47,123.94,4.09
+1993,Christophe Bouchut,Group C,Peugeot Talbot Sport,Peugeot 905 Evo 1 Bis,Michelin,375.0,5100.0,3200.0,No series,FRA,FRA,212.5,133.33,3.84
+1993,Geoff Brabham,Group C,Peugeot Talbot Sport,Peugeot 905 Evo 1 Bis,Michelin,375.0,5100.0,3200.0,No series,AUS,FRA,212.5,133.33,3.84
+1993,Éric Hélary,Group C,Peugeot Talbot Sport,Peugeot 905 Evo 1 Bis,Michelin,375.0,5100.0,3200.0,No series,FRA,FRA,212.5,133.33,3.84
+1994,Mauro Baldi,Group GT1,Le Mans Porsche Team,Dauer 962 Le Mans-Porsche,Goodyear,344.0,4685.701,2911.56,No series,ITA,DEU,195.24,121.32,4.19
+1994,Yannick Dalmas,Group GT1,Le Mans Porsche Team,Dauer 962 Le Mans-Porsche,Goodyear,344.0,4685.701,2911.56,No series,FRA,DEU,195.24,121.32,4.19
+1994,Hurley Haywood,Group GT1,Le Mans Porsche Team,Dauer 962 Le Mans-Porsche,Goodyear,344.0,4685.701,2911.56,No series,USA,DEU,195.24,121.32,4.19
+1995,Yannick Dalmas,Group GT1,Kokusai Kaihatsu Racing,McLaren F1 GTR-BMW,Michelin,298.0,4055.8,2520.2,No series,FRA,GBR,168.99,105.01,4.83
+1995,JJ Lehto,Group GT1,Kokusai Kaihatsu Racing,McLaren F1 GTR-BMW,Michelin,298.0,4055.8,2520.2,No series,FIN,GBR,168.99,105.01,4.83
+1995,Masanori Sekiya,Group GT1,Kokusai Kaihatsu Racing,McLaren F1 GTR-BMW,Michelin,298.0,4055.8,2520.2,No series,JPN,GBR,168.99,105.01,4.83
+1996,Davy Jones,Le Mans Prototype,Joest Racing,TWR Porsche WSC-95,Goodyear,354.0,4814.4,2991.5,No series,USA,DEU,200.6,124.65,4.07
+1996,Manuel Reuter,Le Mans Prototype,Joest Racing,TWR Porsche WSC-95,Goodyear,354.0,4814.4,2991.5,No series,DEU,DEU,200.6,124.65,4.07
+1996,Alexander Wurz,Le Mans Prototype,Joest Racing,TWR Porsche WSC-95,Goodyear,354.0,4814.4,2991.5,No series,AUT,DEU,200.6,124.65,4.07
+1997,Michele Alboreto,Le Mans Prototype,Joest Racing,TWR Porsche WSC-95,Goodyear,361.0,4909.6,3050.7,No series,ITA,DEU,204.57,127.11,3.99
+1997,Stefan Johansson,Le Mans Prototype,Joest Racing,TWR Porsche WSC-95,Goodyear,361.0,4909.6,3050.7,No series,SWE,DEU,204.57,127.11,3.99
+1997,Tom Kristensen,Le Mans Prototype,Joest Racing,TWR Porsche WSC-95,Goodyear,361.0,4909.6,3050.7,No series,DEN,DEU,204.57,127.11,3.99
+1998,Laurent Aïello,Group GT1,Porsche AG,Porsche 911 GT1-98,Michelin,365.0,4783.781,2972.504,No series,FRA,DEU,199.32,123.85,3.95
+1998,Allan McNish,Group GT1,Porsche AG,Porsche 911 GT1-98,Michelin,365.0,4783.781,2972.504,No series,GBR,DEU,199.32,123.85,3.95
+1998,Stéphane Ortelli,Group GT1,Porsche AG,Porsche 911 GT1-98,Michelin,365.0,4783.781,2972.504,No series,MON,DEU,199.32,123.85,3.95
+1999,Yannick Dalmas,Le Mans Prototype,Team BMW Motorsport,BMW V12 LMR,Michelin,366.0,4982.974,3096.276,No series,FRA,DEU,207.62,129.01,3.93
+1999,Pierluigi Martini,Le Mans Prototype,Team BMW Motorsport,BMW V12 LMR,Michelin,366.0,4982.974,3096.276,No series,ITA,DEU,207.62,129.01,3.93
+1999,Joachim Winkelhock,Le Mans Prototype,Team BMW Motorsport,BMW V12 LMR,Michelin,366.0,4982.974,3096.276,No series,DEU,DEU,207.62,129.01,3.93
+2000,Frank Biela,Le Mans Prototype,Audi Sport Team Joest,Audi R8,Michelin,368.0,5007.988,3111.819,No series,DEU,DEU,208.67,129.66,3.91
+2000,Tom Kristensen,Le Mans Prototype,Audi Sport Team Joest,Audi R8,Michelin,368.0,5007.988,3111.819,No series,DEN,DEU,208.67,129.66,3.91
+2000,Emanuele Pirro,Le Mans Prototype,Audi Sport Team Joest,Audi R8,Michelin,368.0,5007.988,3111.819,No series,ITA,DEU,208.67,129.66,3.91
+2001,Frank Biela,Le Mans Prototype,Audi Sport Team Joest,Audi R8,Michelin,321.0,4367.2,2713.7,No series,DEU,DEU,181.97,113.07,4.49
+2001,Tom Kristensen,Le Mans Prototype,Audi Sport Team Joest,Audi R8,Michelin,321.0,4367.2,2713.7,No series,DEN,DEU,181.97,113.07,4.49
+2001,Emanuele Pirro,Le Mans Prototype,Audi Sport Team Joest,Audi R8,Michelin,321.0,4367.2,2713.7,No series,ITA,DEU,181.97,113.07,4.49
+2002,Frank Biela,Le Mans Prototype,Audi Sport Team Joest,Audi R8,Michelin,375.0,5118.75,3180.64,No series,DEU,DEU,213.28,132.53,3.84
+2002,Tom Kristensen,Le Mans Prototype,Audi Sport Team Joest,Audi R8,Michelin,375.0,5118.75,3180.64,No series,DEN,DEU,213.28,132.53,3.84
+2002,Emanuele Pirro,Le Mans Prototype,Audi Sport Team Joest,Audi R8,Michelin,375.0,5118.75,3180.64,No series,ITA,DEU,213.28,132.53,3.84
+2003,Rinaldo Capello,Le Mans Prototype,Team Bentley,Bentley Speed 8,Michelin,377.0,5145.571,3197.31,No series,ITA,GBR,214.4,133.22,3.82
+2003,Tom Kristensen,Le Mans Prototype,Team Bentley,Bentley Speed 8,Michelin,377.0,5145.571,3197.31,No series,DEN,GBR,214.4,133.22,3.82
+2003,Guy Smith,Le Mans Prototype,Team Bentley,Bentley Speed 8,Michelin,377.0,5145.571,3197.31,No series,GBR,GBR,214.4,133.22,3.82
+2004,Seiji Ara,Le Mans Prototype,Audi Sport Japan Team Goh,Audi R8,Michelin,379.0,5169.97,3212.47,No series,JPN,JPN,215.42,133.85,3.8
+2004,Rinaldo Capello,Le Mans Prototype,Audi Sport Japan Team Goh,Audi R8,Michelin,379.0,5169.97,3212.47,No series,ITA,JPN,215.42,133.85,3.8
+2004,Tom Kristensen,Le Mans Prototype,Audi Sport Japan Team Goh,Audi R8,Michelin,379.0,5169.97,3212.47,No series,DEN,JPN,215.42,133.85,3.8
+2005,JJ Lehto,Le Mans Prototype,Champion Racing,Audi R8,Michelin,370.0,5050.5,3138.2,No series,FIN,USA,210.44,130.76,3.89
+2005,Tom Kristensen,Le Mans Prototype,Champion Racing,Audi R8,Michelin,370.0,5050.5,3138.2,No series,DEN,USA,210.44,130.76,3.89
+2005,Marco Werner,Le Mans Prototype,Champion Racing,Audi R8,Michelin,370.0,5050.5,3138.2,No series,DEU,USA,210.44,130.76,3.89
+2006,Frank Biela,Le Mans Prototype,Audi Sport Team Joest,Audi R10 TDI,Michelin,380.0,5187.0,3223.0,No series,DEU,DEU,216.12,134.29,3.79
+2006,Emanuele Pirro,Le Mans Prototype,Audi Sport Team Joest,Audi R10 TDI,Michelin,380.0,5187.0,3223.0,No series,ITA,DEU,216.12,134.29,3.79
+2006,Marco Werner,Le Mans Prototype,Audi Sport Team Joest,Audi R10 TDI,Michelin,380.0,5187.0,3223.0,No series,DEU,DEU,216.12,134.29,3.79
+2007,Frank Biela,Le Mans Prototype,Audi Sport North America,Audi R10 TDI,Michelin,369.0,5029.101,3124.938,No series,DEU,DEU,209.55,130.21,3.9
+2007,Emanuele Pirro,Le Mans Prototype,Audi Sport North America,Audi R10 TDI,Michelin,369.0,5029.101,3124.938,No series,ITA,DEU,209.55,130.21,3.9
+2007,Marco Werner,Le Mans Prototype,Audi Sport North America,Audi R10 TDI,Michelin,369.0,5029.101,3124.938,No series,DEU,DEU,209.55,130.21,3.9
+2008,Rinaldo Capello,Le Mans Prototype,Audi Sport North America,Audi R10 TDI,Michelin,381.0,5192.649,3226.562,No series,ITA,DEU,216.36,134.44,3.78
+2008,Tom Kristensen,Le Mans Prototype,Audi Sport North America,Audi R10 TDI,Michelin,381.0,5192.649,3226.562,No series,DEN,DEU,216.36,134.44,3.78
+2008,Allan McNish,Le Mans Prototype,Audi Sport North America,Audi R10 TDI,Michelin,381.0,5192.649,3226.562,No series,GBR,DEU,216.36,134.44,3.78
+2009,David Brabham,Le Mans Prototype,Peugeot Sport Total,Peugeot 908 HDi FAP,Michelin,382.0,5206.278,3235.031,No series,AUS,FRA,216.93,134.79,3.77
+2009,Marc Gené,Le Mans Prototype,Peugeot Sport Total,Peugeot 908 HDi FAP,Michelin,382.0,5206.278,3235.031,No series,ESP,FRA,216.93,134.79,3.77
+2009,Alexander Wurz,Le Mans Prototype,Peugeot Sport Total,Peugeot 908 HDi FAP,Michelin,382.0,5206.278,3235.031,No series,AUT,FRA,216.93,134.79,3.77
+2010,Timo Bernhard,Le Mans Prototype,Audi Sport North America,Audi R15 TDI Plus,Michelin,397.0,5410.713,3362.061,No series,DEU,DEU,225.45,140.09,3.63
+2010,Romain Dumas,Le Mans Prototype,Audi Sport North America,Audi R15 TDI Plus,Michelin,397.0,5410.713,3362.061,No series,FRA,DEU,225.45,140.09,3.63
+2010,Mike Rockenfeller,Le Mans Prototype,Audi Sport North America,Audi R15 TDI Plus,Michelin,397.0,5410.713,3362.061,No series,DEU,DEU,225.45,140.09,3.63
+2011,Marcel Fässler,Le Mans Prototype,Audi Sport Team Joest,Audi R18 TDI,Michelin,355.0,4838.295,3006.377,ILMC,SUI,DEU,201.6,125.27,4.06
+2011,André Lotterer,Le Mans Prototype,Audi Sport Team Joest,Audi R18 TDI,Michelin,355.0,4838.295,3006.377,ILMC,DEU,DEU,201.6,125.27,4.06
+2011,Benoît Tréluyer,Le Mans Prototype,Audi Sport Team Joest,Audi R18 TDI,Michelin,355.0,4838.295,3006.377,ILMC,FRA,DEU,201.6,125.27,4.06
+2012,Marcel Fässler,Le Mans Prototype,Audi Sport Team Joest,Audi R18 e-tron quattro,Michelin,378.0,5151.762,3201.156,FIA WEC,SUI,DEU,214.66,133.38,3.81
+2012,André Lotterer,Le Mans Prototype,Audi Sport Team Joest,Audi R18 e-tron quattro,Michelin,378.0,5151.762,3201.156,FIA WEC,DEU,DEU,214.66,133.38,3.81
+2012,Benoît Tréluyer,Le Mans Prototype,Audi Sport Team Joest,Audi R18 e-tron quattro,Michelin,378.0,5151.762,3201.156,FIA WEC,FRA,DEU,214.66,133.38,3.81
+2013,Loïc Duval,Le Mans Prototype,Audi Sport Team Joest,Audi R18 e-tron quattro,Michelin,348.0,4742.892,2947.096,FIA WEC,FRA,DEU,197.62,122.8,4.14
+2013,Tom Kristensen,Le Mans Prototype,Audi Sport Team Joest,Audi R18 e-tron quattro,Michelin,348.0,4742.892,2947.096,FIA WEC,DEN,DEU,197.62,122.8,4.14
+2013,Allan McNish,Le Mans Prototype,Audi Sport Team Joest,Audi R18 e-tron quattro,Michelin,348.0,4742.892,2947.096,FIA WEC,GBR,DEU,197.62,122.8,4.14
+2014,Marcel Fässler,Le Mans Prototype,Audi Sport Team Joest,Audi R18 e-tron quattro,Michelin,379.0,5165.391,3209.625,FIA WEC,SUI,DEU,215.22,133.73,3.8
+2014,André Lotterer,Le Mans Prototype,Audi Sport Team Joest,Audi R18 e-tron quattro,Michelin,379.0,5165.391,3209.625,FIA WEC,DEU,DEU,215.22,133.73,3.8
+2014,Benoît Tréluyer,Le Mans Prototype,Audi Sport Team Joest,Audi R18 e-tron quattro,Michelin,379.0,5165.391,3209.625,FIA WEC,FRA,DEU,215.22,133.73,3.8
+2015,Earl Bamber,Le Mans Prototype,Porsche Team,Porsche 919 Hybrid,Michelin,395.0,5382.82,3344.73,FIA WEC,NZL,DEU,224.28,139.36,3.65
+2015,Nico Hülkenberg,Le Mans Prototype,Porsche Team,Porsche 919 Hybrid,Michelin,395.0,5382.82,3344.73,FIA WEC,DEU,DEU,224.28,139.36,3.65
+2015,Nick Tandy,Le Mans Prototype,Porsche Team,Porsche 919 Hybrid,Michelin,395.0,5382.82,3344.73,FIA WEC,GBR,DEU,224.28,139.36,3.65
+2016,Romain Dumas,Le Mans Prototype,Porsche Team,Porsche 919 Hybrid,Michelin,384.0,5233.536,3251.969,FIA WEC,FRA,DEU,218.06,135.5,3.75
+2016,Neel Jani,Le Mans Prototype,Porsche Team,Porsche 919 Hybrid,Michelin,384.0,5233.536,3251.969,FIA WEC,SUI,DEU,218.06,135.5,3.75
+2016,Marc Lieb,Le Mans Prototype,Porsche Team,Porsche 919 Hybrid,Michelin,384.0,5233.536,3251.969,FIA WEC,DEU,DEU,218.06,135.5,3.75
+2017,Earl Bamber,Le Mans Prototype,Porsche LMP Team,Porsche 919 Hybrid,Michelin,367.0,5001.23,3107.62,FIA WEC,NZL,DEU,208.38,129.48,3.92
+2017,Timo Bernhard,Le Mans Prototype,Porsche LMP Team,Porsche 919 Hybrid,Michelin,367.0,5001.23,3107.62,FIA WEC,DEU,DEU,208.38,129.48,3.92
+2017,Brendon Hartley,Le Mans Prototype,Porsche LMP Team,Porsche 919 Hybrid,Michelin,367.0,5001.23,3107.62,FIA WEC,NZL,DEU,208.38,129.48,3.92
+2018,Fernando Alonso,Le Mans Prototype,Toyota Gazoo Racing,Toyota TS050 Hybrid,Michelin,388.0,5286.888,3285.12,FIA WEC,ESP,JPN,220.29,136.88,3.71
+2018,Sébastien Buemi,Le Mans Prototype,Toyota Gazoo Racing,Toyota TS050 Hybrid,Michelin,388.0,5286.888,3285.12,FIA WEC,SUI,JPN,220.29,136.88,3.71
+2018,Kazuki Nakajima,Le Mans Prototype,Toyota Gazoo Racing,Toyota TS050 Hybrid,Michelin,388.0,5286.888,3285.12,FIA WEC,JPN,JPN,220.29,136.88,3.71
+2019,Fernando Alonso,Le Mans Prototype,Toyota Gazoo Racing,Toyota TS050 Hybrid,Michelin,385.0,5246.01,3259.72,FIA WEC,ESP,JPN,218.58,135.82,3.74
+2019,Sébastien Buemi,Le Mans Prototype,Toyota Gazoo Racing,Toyota TS050 Hybrid,Michelin,385.0,5246.01,3259.72,FIA WEC,SUI,JPN,218.58,135.82,3.74
+2019,Kazuki Nakajima,Le Mans Prototype,Toyota Gazoo Racing,Toyota TS050 Hybrid,Michelin,385.0,5246.01,3259.72,FIA WEC,JPN,JPN,218.58,135.82,3.74
+2020,Sébastien Buemi,Le Mans Prototype,Toyota Gazoo Racing,Toyota TS050 Hybrid,Michelin,387.0,5272.46,3276.15,FIA WEC,SUI,JPN,219.69,136.51,3.72
+2020,Brendon Hartley,Le Mans Prototype,Toyota Gazoo Racing,Toyota TS050 Hybrid,Michelin,387.0,5272.46,3276.15,FIA WEC,NZL,JPN,219.69,136.51,3.72
+2020,Kazuki Nakajima,Le Mans Prototype,Toyota Gazoo Racing,Toyota TS050 Hybrid,Michelin,387.0,5272.46,3276.15,FIA WEC,JPN,JPN,219.69,136.51,3.72
+2021,Mike Conway,Hypercar,Toyota Gazoo Racing,Toyota GR010 Hybrid,Michelin,371.0,5054.5,3140.7,FIA WEC,GBR,JPN,210.6,130.86,3.88
+2021,Kamui Kobayashi,Hypercar,Toyota Gazoo Racing,Toyota GR010 Hybrid,Michelin,371.0,5054.5,3140.7,FIA WEC,JPN,JPN,210.6,130.86,3.88
+2021,José María López,Hypercar,Toyota Gazoo Racing,Toyota GR010 Hybrid,Michelin,371.0,5054.5,3140.7,FIA WEC,ARG,JPN,210.6,130.86,3.88
+2022,Sébastien Buemi,Hypercar,Toyota Gazoo Racing,Toyota GR010 Hybrid,Michelin,380.0,5177.17,3217.0,FIA WEC,SUI,JPN,215.72,134.04,3.79
+2022,Brendon Hartley,Hypercar,Toyota Gazoo Racing,Toyota GR010 Hybrid,Michelin,380.0,5177.17,3217.0,FIA WEC,NZL,JPN,215.72,134.04,3.79
+2022,Ryō Hirakawa,Hypercar,Toyota Gazoo Racing,Toyota GR010 Hybrid,Michelin,380.0,5177.17,3217.0,FIA WEC,JPN,JPN,215.72,134.04,3.79
+2023,James Calado,Hypercar,Ferrari – AF Corse,Ferrari 499P,Michelin,342.0,4660.1,2895.65,FIA WEC,GBR,ITA,194.17,120.65,4.21
+2023,Antonio Giovinazzi,Hypercar,Ferrari – AF Corse,Ferrari 499P,Michelin,342.0,4660.1,2895.65,FIA WEC,ITA,ITA,194.17,120.65,4.21
+2023,Alessandro Pier Guidi,Hypercar,Ferrari – AF Corse,Ferrari 499P,Michelin,342.0,4660.1,2895.65,FIA WEC,ITA,ITA,194.17,120.65,4.21
