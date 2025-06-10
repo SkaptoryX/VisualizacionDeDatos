@@ -1,0 +1,8 @@
+SELECT ?basketball_playerLabel ?ISO_3166_1_alpha_3_code WHERE {
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],mul,en". }
+  ?basketball_player wdt:P106 wd:Q3665646.
+  FILTER(NOT EXISTS { ?basketball_player wdt:P570 ?date_of_death. })
+  FILTER(NOT EXISTS { ?basketball_player wdt:P2032 ?work_period__end_. })
+  ?basketball_player wdt:P27 ?country_of_citizenship.
+  OPTIONAL { ?country_of_citizenship wdt:P298 ?ISO_3166_1_alpha_3_code. }
+}
