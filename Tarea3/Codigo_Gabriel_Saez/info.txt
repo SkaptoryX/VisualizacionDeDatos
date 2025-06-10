@@ -1,0 +1,16 @@
+Autor: Gabriel Sáez  
+Visualización: Mapa mundial de pistas de Fórmula 1  
+Herramienta utilizada: Flourish  
+Tipo de mapa: Mapa de puntos (point map)  
+Ubicación en el espectro: Mapa geográfico categórico
+
+Objetivo: Visualizar la distribución global de los circuitos de Fórmula 1, con especial énfasis en su concentración por continente.
+
+Dataset utilizado:
+- circuits.csv (original de Kaggle)
+- f1_circuits_with_continent.csv (archivo procesado con columna de continentes)
+
+Visualización exportada: Mapa Circuitos F1.png  
+🔗 Visualización interactiva: https://public.flourish.studio/visualisation/23660045/
+
+Conclusión: Europa concentra la mayoría de pistas, reflejando su rol histórico en la Fórmula 1. Asia y América presentan una expansión reciente del automovilismo, mientras que África y Oceanía están poco representadas. Este mapa permite visualizar la desigual distribución global del deporte, influida por factores económicos, culturales y logísticos.

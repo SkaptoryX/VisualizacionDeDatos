@@ -1,0 +1,13 @@
+Autor: Roberto Escobar 
+Visualización: Mapa mundial de clubes asociados a estadios de fútbol 
+Herramienta utilizada: Carto  
+Tipo de mapa: Cluster Aggregation 
+Ubicación en el espectro: Mapa geográfico categórico
+
+Objetivo: Visualizar la distribución global de los estadios y clubes de fútbol.
+
+Dataset utilizado:
+-Stadiums_processed.csv
+
+Visualización exportada: MAP.png
+🔗 Visualización interactiva: https://clausa.app.carto.com/map/00e9a7bb-fb88-4d05-bef6-bdd86db3e557
